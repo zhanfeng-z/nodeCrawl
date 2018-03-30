@@ -1,0 +1,28 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "记录nodejs学习过程",
+  "main": "zhihu_request.js",
+  "scripts": {
+    "dev": "node http.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhanfeng-z/nodetest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/zhanfeng-z/nodetest/issues"
+  },
+  "homepage": "https://github.com/zhanfeng-z/nodetest#readme",
+  "dependencies": {
+    "async": "^2.5.0",
+    "bluebird": "^3.5.0",
+    "cheerio": "^1.0.0-rc.2",
+    "express": "^4.15.3",
+    "iconv-lite": "^0.4.19",
+    "nightmare": "^2.10.0"
+  }
+}
