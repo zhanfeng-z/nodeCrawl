@@ -19,10 +19,20 @@
   "homepage": "https://github.com/zhanfeng-z/nodetest#readme",
   "dependencies": {
     "async": "^2.5.0",
+    "axios": "^0.19.2",
     "bluebird": "^3.5.0",
     "cheerio": "^1.0.0-rc.2",
     "express": "^4.15.3",
     "iconv-lite": "^0.4.19",
-    "nightmare": "^2.10.0"
+    "nightmare": "^2.10.0",
+    "puppeteer": "^3.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^7.1.0",
+    "eslint-config-standard": "^14.1.1",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-node": "^11.1.0",
+    "eslint-plugin-promise": "^4.2.1",
+    "eslint-plugin-standard": "^4.0.1"
   }
 }
