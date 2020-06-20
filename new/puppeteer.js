@@ -64,7 +64,7 @@ async function crawl () {
 }
 
 async function download (imgList) {
-  fs.mkdir('../node-resource/', function (err) {
+  fs.mkdir('../data/node-resource/', function (err) {
     if (err) {
       return console.error(err)
     }
