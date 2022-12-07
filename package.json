@@ -22,7 +22,7 @@
     "axios": "^0.19.2",
     "bluebird": "^3.5.0",
     "cheerio": "^1.0.0-rc.2",
-    "express": "^4.15.3",
+    "express": "^4.18.2",
     "iconv-lite": "^0.4.19",
     "nightmare": "^2.10.0",
     "puppeteer": "^3.3.0"
